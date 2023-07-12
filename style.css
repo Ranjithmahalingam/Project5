@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+.container{
+    background-color: brown;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{
+    font-size: 3em;
+}
+
+button{
+    height: 300px;
+    width: 300px;
+    background-color:blue;
+    margin: 30px;
+    font-size: 3em;
+    color: white;
+    border-radius: 10px;
+
+}
+
+img{
+    height: 500px;
+    width: 400px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color:white ;
+    color: orangered;
+}
